@@ -13,9 +13,6 @@ Developer & Designer👨‍💻 </div>
 - 🌱 I’m currently learning Full Stack Development & Java  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
 - ### ⚡ Experince(Internship) & Implant Trainings :
      -Yaaraa Technology (Intern)  Full Stack Developer   
     -Sayur Technology  (Python),   
